@@ -3,8 +3,6 @@
 mkdir data/alignment
 cd data/alignment
 
-wget https://hanoverprod.z21.web.core.windows.net/med_llava/alignment/llava_med_alignment_500k.json
-
 cd ..
 
 mkdir instruct
